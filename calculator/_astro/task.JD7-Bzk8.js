@@ -1,1 +1,0 @@
-import{ay as l}from"./hydration.C4XjvPX6.js";const i=typeof requestIdleCallback>"u"?t=>setTimeout(t,1):requestIdleCallback;let s=!1,t=!1,u=[],a=[];function _(){s=!1;const t=u.slice();u=[],l(t)}function c(){t=!1;const s=a.slice();a=[],l(s)}function o(t){s||(s=!0,queueMicrotask(_)),u.push(t)}function n(s){t||(t=!0,i(c)),a.push(s)}export{n as a,o as q};

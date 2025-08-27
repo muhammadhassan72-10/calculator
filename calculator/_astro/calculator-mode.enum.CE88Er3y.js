@@ -1,1 +1,0 @@
-var L=(L=>(L.SHIFT="SHIFT",L.ALPHA="ALPHA",L.DEFAULT="DEFAULT",L.STO="STO",L.RECALC="RECALC",L))(L||{});export{L as C};

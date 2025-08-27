@@ -1,1 +1,0 @@
-import{e as d,u,h as n,i as c,j as i}from"./hydration.C4XjvPX6.js";function y(s,o,r){d(()=>{var a=u(()=>o(s,r?.())||{});if(r&&a?.update){var t=!1,f={};n(()=>{var e=r();c(e),t&&i(f,e)&&(f=e,a.update(e))}),t=!0}if(a?.destroy)return()=>a.destroy()})}export{y as a};
