@@ -1,0 +1,1 @@
+import{c as t}from"./clsx.B-dksMZM.js";import{t as i}from"./bundle-mjs.D3-g1QD1.js";function f(...o){return i(t(o))}function l(...o){console.log("tera-system-ui",...o)}function u(o,n){if(!o)throw new Error("Invalid element provided.");const e=new IntersectionObserver(s=>{s.forEach(r=>{n(r.isIntersecting,r)})});return e.observe(o),()=>e.disconnect()}export{l as a,f as c,u as o};

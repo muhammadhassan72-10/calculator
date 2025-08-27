@@ -1,0 +1,1 @@
+import{e as t,h,u as b,a5 as k}from"./hydration.C4XjvPX6.js";import{q}from"./task.JD7-Bzk8.js";function u(r,i){return r===i||r?.[k]===i}function d(r={},i,a,S){return t(()=>{var f,s;return h(()=>{f=s,s=[],b(()=>{r!==a(...s)&&(i(r,...s),f&&u(a(...f),r)&&i(null,...f))})}),()=>{q(()=>{s&&u(a(...s),r)&&i(null,...s)})}}),r}export{d as b};

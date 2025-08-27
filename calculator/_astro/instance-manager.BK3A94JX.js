@@ -1,0 +1,1 @@
+class a{static calculatorInstance;static getCalculator(){return!this.calculatorInstance&&typeof window<"u"&&(this.calculatorInstance=document.querySelector("calculator-container")),this.calculatorInstance}}export{a as I};

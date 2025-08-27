@@ -1,0 +1,1 @@
+import{c as s}from"./button.cwleQYDy.js";const a=s({base:"stroke-icon",variants:{style:{filled:"",default:""}},compoundVariants:[],defaultVariants:{style:"default"}});export{a as s};

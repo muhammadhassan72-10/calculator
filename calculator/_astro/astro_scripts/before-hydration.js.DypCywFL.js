@@ -1,0 +1,1 @@
+import{s as g,i as e,a as n}from"../runtime.DXWTVdIs.js";const a=document.documentElement.lang,s=e(a)?a:n;g(s);
